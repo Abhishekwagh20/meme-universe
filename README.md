@@ -9,7 +9,7 @@ A simple web app that fetches and displays trending memes from Reddit. Built wit
 - Mobile-responsive design
 
 ## Live Demo
-Visit [https://abhishekwagh20.github.io/meme-universe](https://abhishekwagh20.github.io/meme-universe)
+Visit [https://abhishekwagh20.github.io/meme-universe/](https://abhishekwagh20.github.io/meme-universe/)
 
 ## Deployment
 This site is deployed using GitHub Pages. Here's how to deploy your own instance:
@@ -18,7 +18,6 @@ This site is deployed using GitHub Pages. Here's how to deploy your own instance
 2. Go to your fork's Settings > Pages
 3. Under "Source", select "GitHub Actions"
 4. The site will be automatically deployed when you push changes to the main branch
-
 
 ## Local Development
 1. Clone the repository
