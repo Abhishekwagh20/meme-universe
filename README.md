@@ -19,25 +19,6 @@ This site is deployed using GitHub Pages. Here's how to deploy your own instance
 3. Under "Source", select "GitHub Actions"
 4. The site will be automatically deployed when you push changes to the main branch
 
-### Custom Domain (Optional)
-To use a custom domain:
-
-1. Go to your repository's Settings > Pages
-2. Under "Custom domain", enter your domain
-3. Add these DNS records at your domain provider:
-   - Type: A
-   - Name: @
-   - Value: 185.199.108.153
-   - Value: 185.199.109.153
-   - Value: 185.199.110.153
-   - Value: 185.199.111.153
-
-   For www subdomain:
-   - Type: CNAME
-   - Name: www
-   - Value: YOUR_USERNAME.github.io
-
-4. Wait for DNS to propagate (can take up to 24 hours)
 
 ## Local Development
 1. Clone the repository
