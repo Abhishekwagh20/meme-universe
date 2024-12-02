@@ -9,7 +9,7 @@ A simple web app that fetches and displays trending memes from Reddit. Built wit
 - Mobile-responsive design
 
 ## Live Demo
-Visit [https://abhishekwagh20.github.io/meme-universe/](https://abhishekwagh20.github.io/meme-universe/)
+Visit [https://memeuniverse.great-site.net](https://memeuniverse.great-site.net)
 
 ## Deployment
 This site is deployed using GitHub Pages. Here's how to deploy your own instance:
@@ -18,6 +18,12 @@ This site is deployed using GitHub Pages. Here's how to deploy your own instance
 2. Go to your fork's Settings > Pages
 3. Under "Source", select "GitHub Actions"
 4. The site will be automatically deployed when you push changes to the main branch
+
+### Custom Domain Setup
+If you want to use a custom domain:
+1. Create a CNAME record in your domain's DNS settings pointing to `your-username.github.io`
+2. Add your domain in the repository's Settings > Pages > Custom domain
+3. Wait for DNS propagation (can take up to 24 hours)
 
 ## Local Development
 1. Clone the repository
