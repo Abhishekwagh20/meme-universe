@@ -9,7 +9,7 @@ A simple web app that fetches and displays trending memes from Reddit. Built wit
 - Mobile-responsive design
 
 ## Live Demo
-Visit [https://memeuniverse.great-site.net](https://memeuniverse.great-site.net)
+Visit [https://memeuniverse.memeuniverse.great-site.net](https://memeuniverse.memeuniverse.great-site.net)
 
 ## Deployment
 This site is deployed using GitHub Pages. Here's how to deploy your own instance:
