@@ -70,7 +70,7 @@ async function fetchMemes() {
             memeContainer.appendChild(memeCard);
         });
 
-        // Add meme explosion effect
+        
         createMemeExplosion();
 
     } catch (error) {
@@ -211,7 +211,6 @@ function createMemeExplosion() {
     setTimeout(() => document.body.removeChild(container), 3000);
 }
 
-// Add this to your existing CSS
 const style = document.createElement('style');
 style.textContent = `
     @keyframes bounceIn {
